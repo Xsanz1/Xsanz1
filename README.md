@@ -59,24 +59,8 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xsanz1&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub trophies">
-</p>
 
 *New achievements unlock as the contribution graph grows.*
-
----
-
-## 📊 Player Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xsanz1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0221&title_color=00f5ff&icon_color=ff00c8" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xsanz1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00f5ff" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xsanz1&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=00F5FF&line=ff00c8&point=ffffff" alt="Contribution activity graph" width="100%">
-</p>
 
 ---
 

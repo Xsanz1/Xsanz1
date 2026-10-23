@@ -24,7 +24,7 @@
 | 🛡️ **Support Gear** | Node.js · React · Angular · Vue · MySQL |
 | 🌏 **Server** | Indonesia |
 | 🎯 **Current Quest** | Building smart display apps and modern web applications |
-| 🤝 **Status** | 🟢 Online |
+| 🤝 **Status** | 🟢 Online · open to co-op (collaboration, freelance, full-time roles) |
 
 > *"Clean code. Clear screens. Reliable systems."*
 
@@ -57,10 +57,40 @@
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Quests
 
+<p align="center">
+  <a href="https://github.com/Xsanz1/catat_uang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Xsanz1&repo=catat_uang&theme=tokyonight&bg_color=0d0221&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&hide_border=true" alt="catat_uang"></a>
+  <a href="https://github.com/team-dmmx/game-be"><img src="https://github-readme-stats.vercel.app/api/pin/?username=team-dmmx&repo=game-be&theme=tokyonight&bg_color=0d0221&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&hide_border=true" alt="game-be"></a>
+  <a href="https://github.com/team-dmmx/game-fe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=team-dmmx&repo=game-fe&theme=tokyonight&bg_color=0d0221&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&hide_border=true" alt="game-fe"></a>
+</p>
 
-*New achievements unlock as the contribution graph grows.*
+---
+
+## 📊 Player Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xsanz1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0221&title_color=00f5ff&icon_color=ff00c8" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xsanz1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00f5ff" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xsanz1&theme=tokyonight&hide_border=true&background=0d0221&ring=00f5ff&fire=ff00c8&currStreakLabel=00f5ff" alt="GitHub streak">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xsanz1/Xsanz1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0d0221&border_color=261447" alt="Programming quote">
+</p>
 
 ---
 

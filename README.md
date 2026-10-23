@@ -57,16 +57,6 @@
 
 ---
 
-## 🚀 Featured Quests
-
-<p align="center">
-  <a href="https://github.com/Xsanz1/catat_uang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Xsanz1&repo=catat_uang&theme=tokyonight&bg_color=0d0221&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&hide_border=true" alt="catat_uang"></a>
-  <a href="https://github.com/team-dmmx/game-be"><img src="https://github-readme-stats.vercel.app/api/pin/?username=team-dmmx&repo=game-be&theme=tokyonight&bg_color=0d0221&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&hide_border=true" alt="game-be"></a>
-  <a href="https://github.com/team-dmmx/game-fe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=team-dmmx&repo=game-fe&theme=tokyonight&bg_color=0d0221&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&hide_border=true" alt="game-fe"></a>
-</p>
-
----
-
 ## 📊 Player Stats
 
 <p align="center">

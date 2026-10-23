@@ -67,6 +67,6 @@ I'm a **digital signage developer** who builds applications for **Samsung Tizen*
 I'm happy to collaborate on interesting projects or talk about tech.
 
 - 💼 LinkedIn: [linkedin.com/in/fabianus-jan-krisna-wijaya](https://www.linkedin.com/in/fabianus-jan-krisna-wijaya)
-- ✉️ Email: your.email@example.com
+- ✉️ Email: fabianusjan4@gmail.com
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>

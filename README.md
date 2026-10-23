@@ -14,8 +14,6 @@
 I'm a **digital signage developer** who builds applications for **Samsung Tizen** displays, along with modern, responsive **web applications**. I work across the full stack, from Node.js APIs and MySQL databases to interfaces built with React, Angular, and Vue. I like writing clean, maintainable code and I'm always learning new technologies.
 
 - 🔭 Currently working as: **Digital Signage Developer (Samsung Tizen)**
-- 🌱 Currently learning: **[add a technology you're learning]**
-- 🤝 Open to: **collaboration, freelance work, and full-time opportunities**
 - 💬 Ask me about: **Samsung Tizen digital signage, Node.js, React, Angular, Vue, and MySQL**
 
 ---

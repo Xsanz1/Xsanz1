@@ -24,7 +24,7 @@
 | 🛡️ **Support Gear** | Node.js · React · Angular · Vue · MySQL |
 | 🌏 **Server** | Indonesia |
 | 🎯 **Current Quest** | Building smart display apps and modern web applications |
-| 🤝 **Status** | 🟢 Online · open to co-op (collaboration, freelance, full-time roles) |
+| 🤝 **Status** | 🟢 Online |
 
 > *"Clean code. Clear screens. Reliable systems."*
 
